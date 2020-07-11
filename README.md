@@ -10,3 +10,5 @@ Todo o código deste projeto está centralizado no PIC, aqui o ESP é utilizado 
 Meu vídeo mostrando o funcionamento do projeto: https://www.youtube.com/watch?v=wRZU5zJO170.
 
 Vídeo do projeto que eu estou reproduzindo: https://www.youtube.com/watch?v=F53VvpxJuWk.
+
+*senha do arquivo zip: "00001001".
